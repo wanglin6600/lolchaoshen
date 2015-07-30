@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">超神老黄历</string>
+
+    <string name="hello_world">占位-今日日期</string>
+    <string name="action_settings">占位-分享</string>
+    <string name="send_to">感谢分享</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9187206896807164/9960783738</string>
+</resources>
