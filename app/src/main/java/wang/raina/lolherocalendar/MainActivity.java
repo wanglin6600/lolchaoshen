@@ -94,7 +94,7 @@ public class MainActivity extends ActionBarActivity {
 
                 Intent sendIntent = new Intent();
                 sendIntent.setAction(Intent.ACTION_SEND);
-                sendIntent.putExtra(Intent.EXTRA_TEXT, "队友送超鬼？匹配小学生？排位跪一天？到处挂机狗？明明可以躺赢抱大腿，却偏偏妄想带着猪队友 Carry；不是技术不行，只怪队友太渣，快用超神老黄历，看看你的超神五杀 MVP 在哪天？快来下载：https://gdgdocs.org/r/hFwuFU");
+                sendIntent.putExtra(Intent.EXTRA_TEXT, "队友送超鬼？匹配小学生？排位跪一天？到处挂机狗？明明可以躺赢抱大腿，却偏偏妄想带着猪队友 Carry；不是技术不行，只怪队友太渣，快用超神老黄历，看看你的超神五杀 MVP 在哪天？快来下载：https://play.google.com/store/apps/details?id=wang.raina.lolherocalendar");
                 sendIntent.setType("text/plain");
                 startActivity(sendIntent);
             }
