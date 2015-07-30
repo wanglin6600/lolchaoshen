@@ -62,7 +62,7 @@ public class MainActivity extends ActionBarActivity {
         ListView list = (ListView) findViewById(R.id.calendar_good_content);
         //生成动态数组，并且转载数据
         ArrayList<HashMap<String, String>> mylist = new ArrayList<HashMap<String, String>>();
-        for(int i=0;i<3;i++)
+        for(int i=0;i<68;i++)
         {
             HashMap<String, String> map = new HashMap<String, String>();
             map.put("ItemTitle", "This is Title.....");
